@@ -12,5 +12,6 @@ namespace hazi
         {
             return egyikszam + masikszam;
         }
+        public const double pi = Math.PI;
     }
 }
